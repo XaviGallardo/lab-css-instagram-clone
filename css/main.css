@@ -96,3 +96,7 @@ body {
 .lista--ancho {
   margin-right: 1.2em;
 }
+.parrafo span,
+.lista--ancho {
+  font-weight: 500;
+}
